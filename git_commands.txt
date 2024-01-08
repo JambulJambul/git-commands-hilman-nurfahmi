@@ -1,0 +1,27 @@
+Nama: Hilman Nurfahmi
+List commands di git
+
+git init : untuk menginisialisasi local repo ke remote repo
+git clone [link] : untuk membuat copy remote repo ke local repo
+
+git push : untuk mengirim perubahan dari local repo ke remote repo
+git push origin [nama branch] : untuk mengirim perubahan suatu branch dari local repo ke remote repo
+git pull : untuk mengambil perubahan dari remote repo ke local repo
+git pull origin [nama branch] : untuk mengambil perubahan suatu branch dari remote repo ke local repo
+
+git status : melihat status dari git
+git commit : untuk menyimpan perubahan di repo
+git add : untuk menambahkan file ke staging sebelum di commit
+git rm : untuk mengeluarkan file dari repo
+
+git branch : untuk melihat branch yang ada di local repo
+git branch - a : untuk melihat branch yang ada di local repo
+git branch [nama branch] : untuk membuat branch baru
+git checkout [nama branch] : untuk pindah ke branch tertentu
+git merge [nama branch] : untuk menyatukan branch ke branch aktif
+git merge [branch sumber] [branch tujuan] : untuk menyatukan branch sumber ke branch tertentu
+git stash : untuk menyimpan update yang telah dibuat di folder stash
+git stash pop : untuk mengambil data dari folder stash
+
+git log : untuk melihat semua perubahan yang telah dibuat
+git diff : untuk melihat update dari perubahan terakhir
