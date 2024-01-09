@@ -1,3 +1,4 @@
+//Nama: Hilman Nurfahmi
 //Challenge 1
 function bandingkanAngka(angka1, angka2) {
     if (angka1 === angka2) {
